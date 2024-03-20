@@ -1,0 +1,11 @@
+2  = green led
+1  = yellow led
+64 = red led
+7  = oled SI
+5  = oled CL
+61 = oled DC
+18 = oled red
+45 = oled OC
+62 = IR sensor
+4  = sw3
+15 = sw2
